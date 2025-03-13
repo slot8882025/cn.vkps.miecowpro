@@ -2,14 +2,14 @@
   "userinfo": {
     "privacy": {
       "version": "1.0.0",
-      "msg": "1",
+      "msg": "0",
       "isios": 0,
       "iosU": "teacher",
       "Area": [
     {
           "key": "HK",
           "name": "1",
-          "value": "https://www.baidu.com",
+          "value": "cloud",
           "code": "fun"
         },
         {
