@@ -4,16 +4,16 @@
       "version": "1.0.0",
       "msg": "0",
       "isios": 0,
-      "iosU": "teacher",
+      "iosU": "domoamfxth4w",
       "Area": [
     {
-          "key": "HK",
+          "key": "PH",
           "name": "1",
           "value": "cloud",
           "code": "fun"
         },
         {
-          "key": "HK",
+          "key": "BD",
           "name": "1",
           "value": "list",
           "code": "fester"
@@ -32,22 +32,38 @@
         "Place_an_order",
         "pay",
         "firstDepositArrival",
-        "login",
+        "deposit_click",
+        "deposit_success",
+        "first_deposit",
+        "home_view",
+        "login_click",
+         "login_success",
+        "logout_success",
+        "register_success",
+         "login",
         "deposit",
         "redeposit",
         "withdraw"
       ],
       "ID": [
         "testid",
-        "hdtnrt",
-        "ub05gl",
-        "mwud2f",
-        "rslrju",
-        "86y4c3",
-        "y8jh74",
-        "uoau1a",
-        "41bgy1",
-        "w5l86b"
+       "huoul7",
+        "4m9lr7",
+        "bmk51b",
+        "kyuvxg",
+        "e6z9d8",
+        "5inlx3",
+         "kc5otl",
+        "ewogly",
+        "6t70fg",
+        "t4orfi",
+        "kaya0k",
+        "9pxnue",
+        "6eyr5d",
+        "da70iy",
+        "7qqwsc",
+        "e7q213",
+        "iwzvkd"
       ],
       "quertip": [
        
